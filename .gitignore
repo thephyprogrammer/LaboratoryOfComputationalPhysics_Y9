@@ -1,0 +1,8 @@
+.vscode/
+.ipynb_checkpoints/
+.gitattributes
+
+# Data 
+credit_card.dat
+data_000637.txt
+populations.txt
